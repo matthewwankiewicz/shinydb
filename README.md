@@ -4,3 +4,5 @@ Code for the scraping was adapted from this page: https://github.com/robert-frey
 Code for the strike zone on the pitching plot was adapted from Jim Albert and Max Marchi's book, Analyzing Baseball Data with R
 
 This code is just a glimpse of what I did, the actual website for this shiny app is https://wnkwz.shinyapps.io/baseball_test/ , just wanted to put the code out to show how I got to the website.
+
+change.
